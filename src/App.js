@@ -1,6 +1,7 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
+import teams from "./pages/api/teams";
 
 function App() {
 	return (
